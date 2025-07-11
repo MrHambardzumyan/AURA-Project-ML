@@ -4,19 +4,19 @@ This repository contains Python code for processing Electroencephalography (EEG)
 
 ## Table of Contents
 
-* [About the AURA Project](#about-the-aura-project)
-* [How it Works](#how-it-works)
-* [Features](#features)
-* [Installation](#installation)
-* [Setup Requirements](#setup-requirements)
-* [Data](#data)
-* [Usage](#usage)
-* [Output Logs](#output-logs)
-* [Code Structure](#code-structure)
-* [Benchmarks](#benchmarks)
-* [Contributing](#contributing)
-* [License](#license)
-* [Credits](#credits)
+* [About the AURA Project]([#about-the-aura-project](https://github.com/MrHambardzumyan/AURA-Project-ML/#about-the-aura-project))
+* [How it Works]([#how-it-works](https://github.com/MrHambardzumyan/AURA-Project-ML/#about-the-aura-project))
+* [Features](https://github.com/MrHambardzumyan/AURA-Project-ML/#about-the-aura-project)
+* [Installation]([#installation](https://github.com/MrHambardzumyan/AURA-Project-ML/#about-the-aura-project))
+* [Setup Requirements]([#setup-requirements](https://github.com/MrHambardzumyan/AURA-Project-ML/#about-the-aura-project))
+* [Data]([#data](https://github.com/MrHambardzumyan/AURA-Project-ML/#about-the-aura-project))
+* [Usage]([#usage](https://github.com/MrHambardzumyan/AURA-Project-ML/#about-the-aura-project))
+* [Output Logs]([#output-logs](https://github.com/MrHambardzumyan/AURA-Project-ML/#about-the-aura-project))
+* [Code Structure]([#code-structure](https://github.com/MrHambardzumyan/AURA-Project-ML/#about-the-aura-project))
+* [Benchmarks]([#benchmarks](https://github.com/MrHambardzumyan/AURA-Project-ML/#about-the-aura-project))
+* [Contributing]([#contributing](https://github.com/MrHambardzumyan/AURA-Project-ML/#about-the-aura-project))
+* [License]([#license](https://github.com/MrHambardzumyan/AURA-Project-ML/#about-the-aura-project))
+* [Credits]([#credits](https://github.com/MrHambardzumyan/AURA-Project-ML/))
 
 ## About the AURA Project 🤖
 
