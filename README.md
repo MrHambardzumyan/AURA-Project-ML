@@ -5,7 +5,7 @@ This repository contains Python code for processing Electroencephalography (EEG)
 ## Table of Contents
 
 * [About the AURA Project](#about-the-aura-project-)
-* [How it Works](#how-it-works-)
+* [How it Works](#how-it-works-%EF%B8%8F)
 * [Features](#features-)
 * [Installation](#installation-)
 * [Setup Requirements](#setup-requirements-)
