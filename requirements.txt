@@ -1,0 +1,8 @@
+# Scientific libraries
+numpy==1.24.3
+scipy==1.10.1
+scikit-learn==1.2.2
+xgboost==1.7.4
+joblib==1.2.0
+
+# No need for standard libraries as they come pre-installed with Python
