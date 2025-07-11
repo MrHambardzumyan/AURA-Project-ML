@@ -13,7 +13,7 @@ This repository contains Python code for processing Electroencephalography (EEG)
 * [Usage](#usage-%EF%B8%8F)
 * [Output Logs](#output-logs-)
 * [Code Structure](#code-structure-%EF%B8%8F)
-* [Contributing](#contributing-)
+* [Benchmarks](#benchmarks-)
 * [License](#license-)
 * [Credits](#credits-)
 
