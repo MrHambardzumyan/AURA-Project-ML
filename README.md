@@ -12,8 +12,7 @@ This repository contains Python code for processing Electroencephalography (EEG)
 * [Data](#data-)
 * [Usage](#usage-%EF%B8%8F)
 * [Output Logs](#output-logs-)
-* [Code Structure](#code-structure-)
-* [Benchmarks](#benchmarks-)
+* [Code Structure](#code-structure-%EF%B8%8F)
 * [Contributing](#contributing-)
 * [License](#license-)
 * [Credits](#credits-)
@@ -145,10 +144,6 @@ The script is organized into several functions, each responsible for a specific 
 ## Benchmarks 📈
 
 Detailed benchmark results and performance comparisons for different models and subjects can be found in `benchmarks.md`.
-
-## Contributing 🤝
-
-Feel free to fork the repository, open issues, or submit pull requests.
 
 ## License 📄
 
