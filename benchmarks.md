@@ -1,4 +1,17 @@
-## Benchmarks
+# Benchmarks
+
+## General
+
+| Metric        | Value                  |
+|---------------|------------------------|
+| **Best Model**| XGBoost                |
+| Accuracy      | 61.29%                 |
+| Precision     | 60.72%                 |
+| Recall        | 63.84%                 |
+| F1 Score      | 62.24%                 |
+
+
+## Specific
 
 ### 1. **Total Average for All Subjects**
 | Metric   | Average Value (%) ± SD (%) |
